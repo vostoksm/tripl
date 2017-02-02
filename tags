@@ -4,4 +4,6 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-getAirports.py	getAirports.py	1;"	kind:file	line:1
+boto3	get_airports.py	/^import boto3$/;"	kind:namespace	line:2
+get_airports	get_airports.py	/^def get_airports(origin, remaining_budget, month):$/;"	kind:function	line:4
+get_airports.py	get_airports.py	1;"	kind:file	line:1
